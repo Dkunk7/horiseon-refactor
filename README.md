@@ -16,3 +16,6 @@ Several selectors in the .css file have been removed and condensed to reduce the
 The file was also reorganized so selectors that reference the same section in the index file are grouped together.
 
 Comments were added to identify each corresponding section in the index file.
+
+## Live Application URL
+https://dkunk7.github.io/horiseon-refactor/
